@@ -1,0 +1,11 @@
+E:\projects-visualstudio\Global Counter\Global Counter\bin\Debug\Global Counter.exe.config
+E:\projects-visualstudio\Global Counter\Global Counter\bin\Debug\Global Counter.exe
+E:\projects-visualstudio\Global Counter\Global Counter\bin\Debug\Global Counter.pdb
+E:\projects-visualstudio\Global Counter\Global Counter\bin\Debug\Global Counter.xml
+E:\projects-visualstudio\Global Counter\Global Counter\obj\Debug\Global Counter.vbprojResolveAssemblyReference.cache
+E:\projects-visualstudio\Global Counter\Global Counter\obj\Debug\Global_Counter.Form1.resources
+E:\projects-visualstudio\Global Counter\Global Counter\obj\Debug\Global_Counter.Resources.resources
+E:\projects-visualstudio\Global Counter\Global Counter\obj\Debug\Global Counter.vbproj.GenerateResource.Cache
+E:\projects-visualstudio\Global Counter\Global Counter\obj\Debug\Global Counter.exe
+E:\projects-visualstudio\Global Counter\Global Counter\obj\Debug\Global Counter.xml
+E:\projects-visualstudio\Global Counter\Global Counter\obj\Debug\Global Counter.pdb
